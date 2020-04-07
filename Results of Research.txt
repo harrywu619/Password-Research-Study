@@ -1,0 +1,4 @@
+Using 2800 number dictionary, cracked 327/4800 (6.82%) 
+Using 3000 symbol dictionary, cracked 0/5000
+using 3000 lower dictionary, cracked 0/5000
+using 3000 upper dictionary, cracked 0/5000
