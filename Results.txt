@@ -1,0 +1,3 @@
+Hacked,Numbers Only,Lowercase Only,Uppercase Only, Symbols Only
+Not Found,4470,5000,5000,5000
+Found,327,0,0,0
