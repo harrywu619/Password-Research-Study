@@ -1,4 +1,19 @@
-Using 2800 number dictionary, cracked 327/4800 (6.82%) 
+Using 2800 number dictionary, cracked 327/4797 (6.82%) 
 Using 3000 symbol dictionary, cracked 0/5000
 using 3000 lower dictionary, cracked 0/5000
 using 3000 upper dictionary, cracked 0/5000
+Using same words:
+using rockyou.txt, cracked 110/625 lowercase generated, passwords were words that made sense (goodgirl, coldplay)
+using rockyou.txt, cracked 12/625 uppercase generated, passwords repeats of words but with capitalization only
+Using same words:
+using rockyou.txt cracked 11/625 with numbers/lowercase 
+using rockyou.txt cracked 1/624 with numbers (Redbug11 btw)
+using rockyou.txt cracked 0/625 with every composition
+
+Swapped tests:
+Lowercase: cracked 45/625
+Uppercase: cracked 2/625
+Lower with Numbers cracked: cracked 0/625
+Lower/Uppercase with Numbers: cracked 0/625
+All Compositions: 0/625
+ 
